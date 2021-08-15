@@ -7,7 +7,7 @@ class checknum
 		{
 			if(x%2==0)
 			{
-				cout<<"The number is evedvdn ";
+				cout<<"The number is even ";
 			}	
 			else
 			{
